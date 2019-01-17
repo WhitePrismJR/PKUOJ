@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 std::vector<std::pair<int, int>>v;
+//题目在http://bailian.openjudge.cn/ss2018/E/
 //dp[i]表示从1出发到i的有多少可能的路径
 long long dp[53];
 int main()
